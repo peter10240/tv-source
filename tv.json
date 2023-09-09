@@ -1622,7 +1622,7 @@
       {
         "name": "live",
         "type": 0,
-        "url": "https://blog.flytam.vip/tvbox-source/live.m3u",
+        "url": "https://peter10240.github.io/tv-source/live.m3u",
         "playerType": 1,
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
